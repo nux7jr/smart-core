@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loader {
+    position: fixed;
+    width: 100vw;
+    height: 200vh;
+    pointer-events: none;
+    z-index: 999999999;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.is-transitioning {
+    pointer-events: none;
+    cursor: progress;
+}
+
+.prose-styles {
+    color: var(--tw-prose-body);
+    max-width: 65ch;
+    font-family: 'EB Garamond', ui-sans-serif;
+}
+
+.prose-styles > p {
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+}
+*::selection {
+    background-color: #C9DEE3;
+}
