@@ -15,7 +15,7 @@ module.exports = {
     ],
     deploy: {
       production: {
-        user: 'root',
+        user: 'mike',
         host: ['213.110.228.1'],
         ref: 'origin/main',
         repo: 'git@github.com:nux7jr/smart-core.git',
