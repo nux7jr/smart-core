@@ -9,22 +9,27 @@
                <h3 class="font-serif text-2xl font-bold text-black uppercase">Главные страницы</h3>
                <ol role="list" class="mt-4 gap-2 lg:gap-6 text-sm flex flex-col lg:flex-row items-center">
                   <li> 
-                     <LinkPrimary class="hover:text-salmon-600 duration-300" to="/"> Главная </LinkPrimary> 
+                     <LinkPrimary class="hover:text-salmon-600 duration-300" to="/"> 
+                        Главная 
+                     </LinkPrimary> 
                   </li>
                   <li> 
                      <LinkPrimary class="hover:text-salmon-600 duration-300" to="/about">
                         О нас
                      </LinkPrimary>
                   </li>
-                  <li> <LinkPrimary class="hover:text-salmon-600 duration-300" to="/contact">
+                  <li> 
+                     <LinkPrimary class="hover:text-salmon-600 duration-300" to="/contact">
                         Контакты
                      </LinkPrimary>
                   </li>
-                  <li> <LinkPrimary class="hover:text-salmon-600 duration-300" to="/author">
+                  <li> 
+                     <a class="hover:text-salmon-600 duration-300" target="_blank" href="https://t.me/warm_ice_cream">
                         Автор
-                     </LinkPrimary>
+                     </a>
                   </li>
-                  <li> <LinkPrimary class="hover:text-salmon-600 duration-300" to="/team">
+                  <li> 
+                     <LinkPrimary class="hover:text-salmon-600 duration-300" to="/team">
                         Команда
                      </LinkPrimary>
                   </li>

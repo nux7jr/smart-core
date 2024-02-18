@@ -6,25 +6,32 @@
             </div>
             <div class="prose-styles mx-auto ">
                 <p>
-                    Phanatik is a passionate author dedicated to the art of storytelling. With a keen eye for weaving
-                    compelling narratives, Phanatik invites readers into worlds filled with imagination, emotion, and
-                    profound insights.
+                    Команда состоит из 11 человек, которые работают над созданием веб-сервисов для группы компаний. Эти
+                    профессионалы включают в себя:
                 </p>
                 <p>
-                    Writing is not just a craft for Phanatik; it's a journey of exploration and expression. Through a unique
-                    blend of creativity and introspection, they craft stories that resonate with readers, leaving a lasting
-                    impact on hearts and minds.
+
+                    Разработчики: Это творческие специалисты, которые отвечают за создание программного обеспечения. Они
+                    пишут код, который делает веб-сервисы работоспособными и функциональными. Разработчики работают в
+                    команде, обеспечивая высокую производительность и качество программного продукта.
                 </p>
                 <p>
-                    Beyond the written word, Phanatik is a literary explorer, delving into themes that range from the
-                    magical to the deeply human. Each piece reflects a dedication to the art form and a commitment to
-                    connecting with readers on a profound level.
+                    Дизайнеры: Они занимаются созданием дизайна пользовательского интерфейса (UI) и пользовательского опыта
+                    (UX). Их задача - сделать веб-сервисы привлекательными, удобными и интуитивно понятными для
+                    пользователей. Дизайнеры уделяют внимание каждой детали, чтобы создать эстетически приятный и
+                    функциональный интерфейс.
                 </p>
                 <p>
-                    Join Phanatik on this literary adventure, where stories come to life, emotions find expression, and the
-                    power of words creates a bridge between imagination and reality.
-                </p>
-            </div>
+                    Программисты: Это специалисты по программированию, которые занимаются созданием и поддержкой
+                    программного кода. Они отвечают за написание и тестирование скриптов, модулей и функций, необходимых для
+                    работы веб-сервисов. Программисты решают сложные технические задачи и обеспечивают безопасность и
+                    эффективность программного обеспечения.
+            </p>
+            <p>
+                Эта команда работает совместно над реализацией крутых проектов для группы компаний. Их усилия направлены
+                на создание инновационных веб-сервисов, которые удовлетворяют потребности клиентов и помогают компаниям
+                достигать успеха в цифровой среде.
+            </p>
         </div>
-    </section>
-</template>
+    </div>
+</section></template>

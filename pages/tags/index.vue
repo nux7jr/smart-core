@@ -6,15 +6,20 @@
                     <h3 class="text-black font-bold font-serif text-3xl">
                         Все теги
                     </h3>
-                <ol class="mt-8 text-base" role="list">
-                    <li class="flex justify-between py-3"> 
-                        <span
-                            class="hover:text-salmon-600 text-black capitalize duration-200 font-semibold">
-                            <a href="/tags/web design">web design</a> 
-                        </span> 
-                    </li>
-                </ol>
-            </li>
-        </ol>
-    </div>
-</section></template>
+                    <ol class="mt-8 text-base" role="list">
+                        <tempalte v-for="item in tags">
+                            <li v-for="elem in item.tags" class="flex justify-between py-3">
+                                <span class="hover:text-salmon-600 text-black capitalize duration-200 font-semibold">
+                                    <NuxtLink :href="'/tags/' + elem.tag">{{ elem.text }}</NuxtLink>
+                                </span>
+                            </li>
+                        </tempalte>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+    </section>
+</template>
+<script setup>
+const { data: tags } = await useApiFetch('/API/blog.json')
+</script>

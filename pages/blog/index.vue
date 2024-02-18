@@ -11,10 +11,12 @@
             </p>
         </div>
     </div>
-    <ArticleBig></ArticleBig>
-    <ArticleBig></ArticleBig>
-    <ArticleBig></ArticleBig>
-    <ArticleBig></ArticleBig>
-    <ArticleBig></ArticleBig>
+    <template v-for="item in posts">
+        <ArticleBig :post="item"></ArticleBig>
+    </template>
 </section>
 </template>
+<script setup>
+const { data: posts } = await useApiFetch('/API/blog.json')
+</script>
+  
