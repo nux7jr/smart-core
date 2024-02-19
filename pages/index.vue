@@ -29,8 +29,6 @@
 </template>
 
 <script setup>
-const { data: posts } = await useLocalFetch();
-posts.value = posts.value.body;
-console.log(posts.value)
+const { data: posts } = await usePromoFetch();
 </script>
   

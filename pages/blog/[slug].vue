@@ -56,8 +56,7 @@
 <script setup>
 // const { data: posts } = await useApiFetch('/API/blog.json');
 // const currentPost = posts.value[0];
-const { data: posts } = await useLocalFetch();
-posts.value = posts.value.body;
+const { data: posts } = await usePromoFetch();
 const currentPost = posts.value[0];
 </script>
   

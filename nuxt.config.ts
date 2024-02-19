@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxtjs/google-fonts', '@nuxt/content'],
+  modules: ['@nuxtjs/google-fonts'],
   app: {
     pageTransition: { name: 'page', mode: 'out-in' }
   },
