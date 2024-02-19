@@ -1,0 +1,210 @@
+[
+    {
+        "id": "0",
+        "slug": "ai-and-labor-market",
+        "preview": "1.jpg",
+        "title": "Искусственный интеллект и рынок труда",
+        "desc": "Анализ последствий внедрения искусственного интеллекта на рынок труда: изменения в спросе на рабочую силу, перспективы автоматизации и переквалификации.",
+        "author": "Михаил Третьяков",
+        "body": "<div id='начало'>some начало</div><p>some html</p><p>morehtml</p><p id='заключение'>Заключение</p>",
+        "tags": [
+            {
+                "text": "AI Technology",
+                "tag": "ai-tech"
+            },
+            {
+                "text": "Михаил Третьяков",
+                "tag": "mikhail-tretyakov"
+            },
+            {
+                "text": "Рынок труда",
+                "tag": "labor-market"
+            },
+            {
+                "text": "Автоматизация",
+                "tag": "automation"
+            },
+            {
+                "text": "Рабочая сила",
+                "tag": "workforce"
+            },
+            {
+                "text": "Искусственный интеллект",
+                "tag": "artificial-intelligence"
+            }
+        ],
+        "date": "Сб, 05 мар"
+    },
+    {
+        "id": "1",
+        "slug": "ai-and-future-of-work",
+        "preview": "2.jpg",
+        "title": "Искусственный интеллект и будущее работы",
+        "desc": "Исследование влияния искусственного интеллекта на будущее работы: изменения в требованиях к навыкам, перспективы автоматизации и обучения.",
+        "author": "Анастасия Иванова",
+        "body": "<div id='начало'>some начало</div><p>some html</p><p>morehtml</p><p id='заключение'>Заключение</p>",
+        "tags": [
+            {
+                "text": "AI Technology",
+                "tag": "ai-tech"
+            },
+            {
+                "text": "Анастасия Иванова",
+                "tag": "anastasia-ivanova"
+            },
+            {
+                "text": "Будущее работы",
+                "tag": "future-of-work"
+            },
+            {
+                "text": "Обучение",
+                "tag": "training"
+            },
+            {
+                "text": "Технологии будущего",
+                "tag": "future-technologies"
+            },
+            {
+                "text": "Искусственный интеллект",
+                "tag": "artificial-intelligence"
+            }
+        ],
+        "date": "Вт, 09 апр"
+    },
+    {
+        "id": "2",
+        "slug": "robotics-and-labor-market",
+        "preview": "3.jpg",
+        "title": "Робототехника и рынок труда",
+        "desc": "Оценка влияния развития робототехники на рынок труда: перспективы автоматизации, изменения в требованиях к профессиональным навыкам.",
+        "author": "Екатерина Смирнова",
+        "body": "<div id='начало'>some начало</div><p>some html</p><p>morehtml</p><p id='заключение'>Заключение</p>",
+        "tags": [
+            {
+                "text": "Robotics",
+                "tag": "robotics"
+            },
+            {
+                "text": "Екатерина Смирнова",
+                "tag": "ekaterina-smirnova"
+            },
+            {
+                "text": "Рынок труда",
+                "tag": "labor-market"
+            },
+            {
+                "text": "Automation",
+                "tag": "automation"
+            },
+            {
+                "text": "Профессиональные навыки",
+                "tag": "professional-skills"
+            },
+            {
+                "text": "Технологии будущего",
+                "tag": "future-technologies"
+            }
+        ],
+        "date": "Пт, 15 мар"
+    },
+    {
+        "id": "3",
+        "slug": "ethics-of-ai",
+        "preview": "4.jpg",
+        "title": "Этика искусственного интеллекта",
+        "desc": "Рассмотрение вопросов этики в контексте развития и использования искусственного интеллекта: проблемы безопасности данных, автономных систем и решений.",
+        "author": "Алексей Петров",
+        "body": "<div id='начало'>some начало</div><p>some html</p><p>morehtml</p><p id='заключение'>Заключение</p>",
+        "tags": [
+            {
+                "text": "AI Ethics",
+                "tag": "ai-ethics"
+            },
+            {
+                "text": "Алексей Петров",
+                "tag": "alexei-petrov"
+            },
+            {
+                "text": "Безопасность данных",
+                "tag": "data-security"
+            },
+            {
+                "text": "Автономные системы",
+                "tag": "autonomous-systems"
+            },
+            {
+                "text": "Искусственный интеллект",
+                "tag": "artificial-intelligence"
+            }
+        ],
+        "date": "Ср, 20 май"
+    },
+    {
+        "id": "4",
+        "slug": "future-of-automation",
+        "preview": "5.jpg",
+        "title": "Будущее автоматизации",
+        "desc": "Изучение тенденций развития автоматизации в различных сферах жизни: от производства до управления домашними устройствами.",
+        "author": "Иван Козлов",
+        "body": "<div id='начало'>some начало</div><p>some html</p><p>morehtml</p><p id='заключение'>Заключение</p>",
+        "tags": [
+            {
+                "text": "Future Trends",
+                "tag": "future-trends"
+            },
+            {
+                "text": "Иван Козлов",
+                "tag": "ivan-kozlov"
+            },
+            {
+                "text": "Автоматизация",
+                "tag": "automation"
+            },
+            {
+                "text": "Технологии будущего",
+                "tag": "future-technologies"
+            },
+            {
+                "text": "Промышленность",
+                "tag": "industry"
+            }
+        ],
+        "date": "Пн, 02 апр"
+    },
+    {
+        "id": "5",
+        "slug": "ai-and-healthcare",
+        "preview": "6.jpg",
+        "title": "Искусственный интеллект и здравоохранение",
+        "desc": "Оценка потенциала применения искусственного интеллекта в здравоохранении: диагностика, лечение и управление медицинскими данными.",
+        "author": "Елена Николаева",
+        "body": "<div id='начало'>some начало</div><p>some html</p><p>morehtml</p><p id='заключение'>Заключение</p>",
+        "tags": [
+            {
+                "text": "Healthcare",
+                "tag": "healthcare"
+            },
+            {
+                "text": "Елена Николаева",
+                "tag": "elena-nikolaeva"
+            },
+            {
+                "text": "Искусственный интеллект",
+                "tag": "artificial-intelligence"
+            },
+            {
+                "text": "Медицинские данные",
+                "tag": "medical-data"
+            },
+            {
+                "text": "Диагностика",
+                "tag": "diagnostics"
+            },
+            {
+                "text": "Лечение",
+                "tag": "treatment"
+            }
+        ],
+        "date": "Пт, 11 апр"
+    }
+]

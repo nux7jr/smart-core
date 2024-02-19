@@ -29,6 +29,8 @@
 </template>
 
 <script setup>
-const { data: posts } = await useApiFetch('/API/blog.json')
+const { data: posts } = await useLocalFetch();
+posts.value = posts.value.body;
+console.log(posts.value)
 </script>
   

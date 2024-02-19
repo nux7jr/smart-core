@@ -32,5 +32,7 @@
 <script setup>
 const route = useRoute();
 // <span>{{ route.params.tag }}</span>
-const { data: posts } = await useApiFetch('/API/blog.json');
+// const { data: posts } = await useApiFetch('/API/blog.json');
+const { data: posts } = await useLocalFetch();
+posts.value = posts.value.body;
 </script>

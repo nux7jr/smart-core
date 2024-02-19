@@ -21,5 +21,7 @@
     </section>
 </template>
 <script setup>
-const { data: tags } = await useApiFetch('/API/blog.json')
+// const { data: tags } = await useApiFetch('/API/blog.json')
+const { data: tags } = await useLocalFetch();
+tags.value = tags.value.body;
 </script>
