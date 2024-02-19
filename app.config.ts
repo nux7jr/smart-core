@@ -1,5 +1,5 @@
 export default defineAppConfig({
     url: {
-        baseApiUrl: 'https://development-space.ru/'
+        baseApiUrl: 'https://development-space.ru'
     }
 })
